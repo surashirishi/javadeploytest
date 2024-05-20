@@ -6,7 +6,7 @@ name: Build and deploy WAR app to Azure Web App - helloworld-1716178602684
 on:
   push:
     branches:
-      - main2
+      - main
   workflow_dispatch:
 
 jobs:
